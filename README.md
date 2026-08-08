@@ -17,19 +17,7 @@
 
 Trabalho na interseção entre **produto**, **engenharia** e **operações**. Minha formação é em Engenharia de Produção, mas minha prática cotidiana é construir: automações, integrações entre sistemas, dashboards operacionais, e produtos de software que resolvem problemas reais de negócio.
 
-Hoje atuo como **Senior Analyst & PMO na [Play9 Content Group](https://play9.com.br)**, onde lidero a área de Gestão & Governança e desenvolvo produtos internos. Em paralelo, toco a **[MasterLab.ia](https://masterlab.ia)**, uma consultoria de automação com IA para PMEs.
-
-O objetivo de médio prazo é claro: Head of Technology ou CTO numa startup em crescimento.
-
----
-
-## O que estou construindo agora
-
-- **PlayConnect** — plataforma interna de gestão de campanhas e contratos (CLM + provisioning de criadores) integrando Pipedrive, NetSuite e Monday.com via n8n
-- **InfluencerCRM** — CRM customizado com motor financeiro de três níveis (GMV / repasse / receita retida) em Fastify + Drizzle + PostgreSQL
-- **Estudos de backend** — pós-graduação em desenvolvimento full-cycle com foco em sistemas distribuídos, SQL e arquitetura de dados
-
----
+Hoje atuo como na [Play9 Content Group](https://play9.com.br)**, onde desenvolvo produtos internos. Em paralelo, toco a **[MasterLab.ia](https://masterlab.ia)**, uma consultoria de automação com IA.
 
 ## Stack principal
 
@@ -51,14 +39,6 @@ O objetivo de médio prazo é claro: Head of Technology ou CTO numa startup em c
 ![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
----
-
-## Filosofia de trabalho
-
-> Sistemas bem desenhados são mais baratos de manter do que gambiarras bem intencionadas.
-
-Gosto de resolver problemas que ficam na fronteira entre engenharia e negócio — onde a solução técnica certa depende de entender o processo, e onde a decisão de produto certa depende de entender os dados.
 
 ---
 
