@@ -12,7 +12,6 @@ Hoje atuo na **[Play9 Content Group](https://play9.com.br)**, onde desenvolvo pr
 
 ## Stack
 
-### Backend & Dados
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
