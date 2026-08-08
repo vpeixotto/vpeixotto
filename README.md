@@ -1,6 +1,6 @@
 <div align="center">
 <img src="./banner.svg" width="100%" alt="Vinicius Peixoto" />
-**Engenheiro de Produção que aprendeu a programar.**
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/viniciuspeixoto)
 [![MasterLab.ia](https://img.shields.io/badge/MasterLab.ia-6366f1?style=for-the-badge&logo=sparkles&logoColor=white)](https://masterlab.ia)
