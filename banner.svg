@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1113" height="170" viewBox="0 0 1113 170" role="img" aria-label="Peixotto — Engenheiro de Produção | AI Engineer">
+  <defs>
+    <clipPath id="frame"><rect width="1113" height="170"></rect></clipPath>
+
+    <pattern id="hexes" width="136" height="118" patternUnits="userSpaceOnUse" patternTransform="rotate(-10) translate(-20 -14)">
+      <path d="M34 0 L68 17 L68 51 L34 68 L0 51 L0 17 Z" fill="#f4f2ec"></path>
+      <path d="M102 59 L136 76 L136 110 L102 127 L68 110 L68 76 Z" fill="#f4f2ec"></path>
+    </pattern>
+
+    <linearGradient id="scrim" x1="1113" y1="0" x2="0" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0.30" stop-color="#0d0d0d" stop-opacity="1"></stop>
+      <stop offset="0.66" stop-color="#0d0d0d" stop-opacity="0.62"></stop>
+      <stop offset="0.92" stop-color="#0d0d0d" stop-opacity="0.18"></stop>
+    </linearGradient>
+
+    <linearGradient id="rule" x1="1113" y1="0" x2="0" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5b7cfa" stop-opacity="1"></stop>
+      <stop offset="0.42" stop-color="#5b7cfa" stop-opacity="0.35"></stop>
+      <stop offset="1" stop-color="#5b7cfa" stop-opacity="0"></stop>
+    </linearGradient>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1113" height="170" fill="#0d0d0d"></rect>
+    <rect width="1113" height="170" fill="url(#hexes)" opacity="0.09"></rect>
+    <rect width="1113" height="170" fill="url(#scrim)"></rect>
+
+    <text x="1041" y="95" text-anchor="end" font-family="&#39;Trebuchet MS&#39;, &#39;Lucida Grande&#39;, Tahoma, sans-serif" font-weight="bold" font-size="78" letter-spacing="-1.5" fill="#f4f2ec">Peixotto</text>
+
+    <g font-family="&#39;Trebuchet MS&#39;, &#39;Lucida Grande&#39;, Tahoma, sans-serif" font-weight="600" font-size="13" letter-spacing="3.4">
+      <text x="1045" y="135" text-anchor="end" fill="#a5a39c">ENGENHEIRO DE PRODUÇÃO<tspan fill="#5b7cfa" dx="4">|</tspan><tspan dx="4">AI ENGINEER</tspan></text>
+    </g>
+
+    <rect x="0" y="167" width="1113" height="3" fill="url(#rule)"></rect>
+  </g>
+</svg>
