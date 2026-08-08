@@ -5,10 +5,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flatlogo=linkedin&logoColor=white)](https://linkedin.com/in/viniciuspeixoto)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat&logo=github&logoColor=white)](https://masterconsultbr.github.io/viniciuspeixoto.github.io)
 
----
-Trabalho na interseção entre **produto**, **engenharia** e **operações**. Minha formação é em Engenharia de Produção, mas minha prática cotidiana é construir: automações, integrações entre sistemas, dashboards operacionais, e produtos de software que resolvem problemas reais de negócio.
-
-Hoje atuo na **[Play9 Content Group](https://play9.com.br)**, onde desenvolvo produtos internos. Em paralelo, toco a **[MasterLab.ia](https://masterlab.ia)**, uma consultoria de automação com IA.
+<br>
+Trabalho na interseção entre **produto**, **engenharia** e **operações**. Formado em Engenharia de Produção, construo automações, integrações entre sistemas e produtos de dados.
+ 
+Produtos internos na **[Play9 Content Group](https://play9.com.br)**. Fundador da **[MasterLab.ia](https://masterlab.ia)**, consultoria de automação com IA.
+ 
+<br>
 
 ## Stack
 
