@@ -1,9 +1,6 @@
 <div align="center">
-
-# Vinicius Peixoto
-
+<img src="./banner.svg" width="100%" alt="Vinicius Peixoto" />
 **Engenheiro de Produção que aprendeu a programar.**
-**Agora constrói sistemas, automatiza operações e lidera produtos de tecnologia.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/viniciuspeixoto)
 [![MasterLab.ia](https://img.shields.io/badge/MasterLab.ia-6366f1?style=for-the-badge&logo=sparkles&logoColor=white)](https://masterlab.ia)
@@ -29,27 +26,5 @@ Hoje atuo como na [Play9 Content Group](https://play9.com.br)**, onde desenvolvo
 
 ### Automação & Integrações
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-
-
-
-<img src="./banner.svg" width="100%" alt="Vinicius Peixoto" />
-
-<br>
-
-Engenheiro de produção que constrói software. Trabalho onde a decisão técnica depende de entender o processo: sistemas internos, integrações e produtos de dados.
-
-Gestão & Governança na **Play9 Content Group**. Fundador da **MasterLab.ia**, automação com IA para PMEs.
-
-<br>
-
-**PlayConnect** · gestão de campanhas e contratos, integrando Pipedrive, NetSuite e Monday
-**InfluencerCRM** · CRM com motor financeiro de três níveis em Fastify e PostgreSQL
-**Cockpit Operacional** · camada de decisão em BigQuery e Metabase
-
-<br>
-
-Node · TypeScript · PostgreSQL · n8n · BigQuery
-
-<br>
 
 [LinkedIn](https://linkedin.com/in/SEU-USUARIO) · [Portfólio](https://SEU-USUARIO.github.io)
