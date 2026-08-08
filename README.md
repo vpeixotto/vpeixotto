@@ -1,10 +1,9 @@
 <div align="center">
 <img src="./banner.svg" width="100%" alt="Vinicius Peixoto" />
 </div>
----
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flatlogo=linkedin&logoColor=white)](https://linkedin.com/in/viniciuspeixoto)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat&logo=github&logoColor=white)](https://masterconsultbr.github.io/viniciuspeixoto.github.io)
+
 <br>
 Trabalho na interseção entre **produto**, **engenharia** e **operações**. Formado em Engenharia de Produção, construo automações, integrações entre sistemas e produtos de dados.
  
