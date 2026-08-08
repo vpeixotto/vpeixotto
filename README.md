@@ -1,11 +1,9 @@
 <div align="center">
 <img src="./banner.svg" width="100%" alt="Vinicius Peixoto" />
-
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flatlogo=linkedin&logoColor=white)](https://linkedin.com/in/viniciuspeixoto)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=github&logoColor=white)](https://masterconsultbr.github.io/viniciuspeixoto.github.io)
-
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat&logo=github&logoColor=white)](https://masterconsultbr.github.io/viniciuspeixoto.github.io)
 
 ---
 
@@ -25,5 +23,3 @@ Hoje atuo como na [Play9 Content Group](https://play9.com.br)**, onde desenvolvo
 
 ### Automação & Integrações
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-
-[LinkedIn](https://linkedin.com/in/SEU-USUARIO) · [Portfólio](https://SEU-USUARIO.github.io)
