@@ -5,7 +5,7 @@
 
 ---
 
-Trabalho na interseção entre **produto**, **engenharia** e **operações**. Formado em Engenharia de Produção, construo automações, integrações entre sistemas e produtos de dados.
+Trabalho na interseção entre **produto**, **engenharia** e **operações**. Formado em Engenharia de Produção e pós-graduando em Engenharia de Software na PUC MG, construo automações, integrações entre sistemas e produtos de dados.
 
 Produtos internos na **[Play9 Content Group](https://play9.com.br)**. Fundador da **[MasterLab.ia](https://masterlab.ia)**, consultoria de automação com IA.
 
