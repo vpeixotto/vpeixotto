@@ -2,8 +2,7 @@
 <img src="./banner.svg" width="100%" alt="Vinicius Peixoto" />
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/viniciuspeixoto)
-[![MasterLab.ia](https://img.shields.io/badge/MasterLab.ia-6366f1?style=for-the-badge&logo=sparkles&logoColor=white)](https://masterlab.ia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flatlogo=linkedin&logoColor=white)](https://linkedin.com/in/viniciuspeixoto)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=github&logoColor=white)](https://masterconsultbr.github.io/viniciuspeixoto.github.io)
 
 </div>
