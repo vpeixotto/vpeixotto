@@ -6,9 +6,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat&logo=github&logoColor=white)](https://masterconsultbr.github.io/viniciuspeixoto.github.io)
 
 ---
-
-## Sobre mim
-
 Trabalho na interseção entre **produto**, **engenharia** e **operações**. Minha formação é em Engenharia de Produção, mas minha prática cotidiana é construir: automações, integrações entre sistemas, dashboards operacionais, e produtos de software que resolvem problemas reais de negócio.
 
 Hoje atuo na **[Play9 Content Group](https://play9.com.br)**, onde desenvolvo produtos internos. Em paralelo, toco a **[MasterLab.ia](https://masterlab.ia)**, uma consultoria de automação com IA.
