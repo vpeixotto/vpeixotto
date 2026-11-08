@@ -7,7 +7,7 @@
 
 Trabalho na interseção entre **produto**, **engenharia** e **operações**. Formado em Engenharia de Produção e pós-graduando em Engenharia de Software na PUC MG, construo automações, integrações entre sistemas e produtos.
 
-Engenheiro de Inovação na **[Play9 Content Group](https://play9.com.br)**. Fundador da **[MasterLab.ia](https://masterlab.ia)**, consultoria de automação com IA.
+Engenheiro de Inovação na **[Play9 Content Group](https://play9.com.br)**. Fundador da **[PXTO.Co](https://masterlab.ia)**, consultoria de automação com IA.
 
 ## Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
